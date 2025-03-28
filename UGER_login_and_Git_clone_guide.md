@@ -1,4 +1,6 @@
-# Login to UGER
+# UGER login and Git clone guide
+
+## Login to UGER
 
 Requires connection to the Broad Institute network (via VPN).
 
