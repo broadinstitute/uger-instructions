@@ -78,3 +78,6 @@ ashlar "/broad/grekalab/Giulia/Export files cohort 2/Cycle 11/Second measurement
        --output "/broad/grekalab/Giulia/Export files cohort 2/ashlar output" \
        --output-channels 0 --plates
 ```
+**Additional Notes:**
+-  It takes about 5-10 minutes to stich and align two cycles of one well.
+-  The ouput is a row letter-column number format (A01) instead of r01c01 that Harmony uses.
