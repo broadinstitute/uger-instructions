@@ -51,7 +51,7 @@ ashlar "<path/to/cycle1/Images/Index.xml>" \
        "<path/to/cycle2/Images/Index.xml>" \
        "..." \
        "<path/to/cycleN/Images/Index.xml>" \
-       --output <path/to/output/dir> \
+       --output "<path/to/output/dir>" \
        --output-channels 0 --plates
 ```
 
