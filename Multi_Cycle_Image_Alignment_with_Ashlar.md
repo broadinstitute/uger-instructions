@@ -1,3 +1,5 @@
+# Multi-cycle Image Alignment with Ashlar
+
 ## One-Time Setup: Anaconda Environment Configuration
 
 These steps are required only once to set up your Anaconda environment on the system.
